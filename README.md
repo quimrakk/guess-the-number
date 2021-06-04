@@ -1,4 +1,4 @@
-# Guess the Number
+# Testing Branches
 
 Simple "Guess the number" game written in Python 3 for practice<br>
 
